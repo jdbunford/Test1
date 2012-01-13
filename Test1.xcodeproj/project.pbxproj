@@ -14,8 +14,8 @@
 /* Begin PBXFileReference section */
 		EF0E9F2314C03AC000A6E62F /* libTest1.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libTest1.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		EF0E9F2614C03AC000A6E62F /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
-		EF0E9F2A14C03AC000A6E62F /* Test1-Prefix.pch */ = {isa = PBXFileReference; path = "Test1-Prefix.pch"; sourceTree = "<group>"; };
-		EF0E9F2B14C03AC000A6E62F /* Test1.h */ = {isa = PBXFileReference; path = Test1.h; sourceTree = "<group>"; };
+		EF0E9F2A14C03AC000A6E62F /* Test1-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Test1-Prefix.pch"; sourceTree = "<group>"; };
+		EF0E9F2B14C03AC000A6E62F /* Test1.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Test1.h; sourceTree = "<group>"; };
 		EF0E9F2C14C03AC000A6E62F /* Test1.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Test1.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
